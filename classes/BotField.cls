@@ -1,3 +1,4 @@
+//test
 public class BotField {
 
     @AuraEnabled public String name { get;set; }
@@ -8,7 +9,7 @@ public class BotField {
         this.name = name;
         this.value = value;
     }
-    
+    //Roll it!
     public BotField(String name, String value, string linkURL) {
         this.name = name;
         this.value = value;
